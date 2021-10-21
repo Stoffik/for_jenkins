@@ -1,1 +1,1 @@
-echo "Hello from GIT to JENKINS! Second version!"
+echo "Hello from GIT to JENKINS! Third version!"
