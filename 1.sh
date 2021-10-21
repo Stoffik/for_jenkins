@@ -1,1 +1,1 @@
-echo "Hello from GIT to JENKINS! Third version!"
+echo "Hello from GIT to JENKINS! Webhook!"
